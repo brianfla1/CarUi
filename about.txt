@@ -1,0 +1,53 @@
+Ram Ui white paper
+
+•	Top Banner
+  o	Climate settings
+  o	Current time
+  o	Current weather
+  o	Direction
+
+•	Center
+  o	Space for selected display
+
+•	Bottom Banner
+  o	Radio
+  o	Media
+  o	Controls
+  o	Climate
+  o	Nav
+  o	Phone
+  o	Apps
+
+•	Radio
+  o	Am
+  o	Fm
+  o	Satelite
+  o	Favorites
+  o	Presets
+•	Media
+  o	Show connected phone name
+  o	Connected phone status
+  o	Connected phone delete
+•	Controls
+  o	Light settings
+  o	Music settings
+  o	Nav settings
+  o	Temperature settings
+  o	Display settings
+•	Climate
+  o	Controls for handling temperature
+  o	Controls for handling heated mirrors
+  o	Controls for handling heated steering wheel
+  o	Controls for handling heated seats
+  o	
+•	Navigation
+  o	Google maps for nav
+•	Phone
+  o	UI to make phone calls
+•	Apps 
+  o	UConnect apps 
+  o	Installed apps
+
+
+
+
